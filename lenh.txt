@@ -1,0 +1,7 @@
+# up file
+git add .
+git commit -m "mess ..."
+git push -u origin master
+
+# tai file
+git pull
